@@ -24,22 +24,4 @@ A aplicação permite que usuários criem e gerenciem uma lista de compras pesso
 * Tailwind CSS
 * shadcn/ui
 
-## Executando o projeto
 
-Instalar dependências:
-
-```bash
-npm install
-```
-
-Executar migrações:
-
-```bash
-npx prisma migrate dev
-```
-
-Iniciar aplicação:
-
-```bash
-npm run dev
-```
